@@ -1,6 +1,6 @@
-#ssFood Truck Project
+#Food Truck Project
 
-###Overview
+### Overview
 
 This program asks the user for some inputs about the food truck and then displays the average and highest rated food trucks.
 
@@ -10,7 +10,7 @@ Inside FoodTruckApp.java I have two primary methods except the main method. I cr
 
 
 
-###Topics / Technologies Used
+### Topics / Technologies Used
 * Eclipse
 * Github
 * Java
@@ -20,7 +20,7 @@ Inside FoodTruckApp.java I have two primary methods except the main method. I cr
 * Arrays
 * Constructors, Getters/Setters
 
-##Lessons Learned
+## Lessons Learned
 * Iterate through arrays
 * Unique numeric Id
 * Constructors , Getters/Setters
