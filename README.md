@@ -1,4 +1,4 @@
-#Food Truck Project
+# Food Truck Project
 
 ### Overview
 
